@@ -22,6 +22,11 @@ enforcement, though there is increasing interest in other areas of use.
 - imutil
 
 # 4. Result
+![Screenshot of Face landmarks detection](./output/landmarks-detection.jpg)
+
+![Screenshot of final result](./output/result.jpg)
+
+
 
 
 
