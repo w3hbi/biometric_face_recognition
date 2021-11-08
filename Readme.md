@@ -27,6 +27,6 @@ enforcement, though there is increasing interest in other areas of use.
 <img src="./output/landmarks-detection.jpg" width="400" height="400">
 
 ### Final Result
-<img src="./output/result.jpg" width="400" height="400">
+<img src="./output/result.jpg" width="500" height="400">
 
 **Important !**: you need to download `vgg-face.mat` and `shape_predictor_68_face_landmarks.dat` to execute this project
