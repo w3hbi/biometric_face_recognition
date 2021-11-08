@@ -24,12 +24,9 @@ enforcement, though there is increasing interest in other areas of use.
 # 4. Result
 
 ### Landmark detection :
-<img src="./output/landmarks-detection.jpg" width="100" height="100">
+<img src="./output/landmarks-detection.jpg" width="400" height="400">
 
-![Screenshot of final result](./output/result.jpg)
-
-
-
-
+### Final Result
+<img src="./output/result.jpg" width="400" height="400">
 
 **Important !**: you need to download `vgg-face.mat` and `shape_predictor_68_face_landmarks.dat` to execute this project
